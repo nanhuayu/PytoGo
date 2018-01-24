@@ -1,4 +1,10 @@
 # PytoGo
+* pytogo完美适用所有对弈软件，甚至所有网页版围棋棋盘。   
+* 使用比cline更强大更精准的智能识图连线引擎，完美识别几乎所有截图围棋棋盘。   
+* 比cline和gtools更方便易用，不易出错   
+
+<img src="res/pytogo.png" width = "200"  alt="pytogo" align=center />
+
 
 ## 使用帮助
 
@@ -24,7 +30,7 @@
 您的赞助是对软件的最大鼓励！
 
 ## 联系作者
-* 交流群 698721444
+* QQ交流群 698721444
 * nanhuayu@gmail.com
 
 ## 软件地址
