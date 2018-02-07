@@ -14,10 +14,11 @@
 
 
 ## 感谢名单
-感谢laoli,经天纬地,氘化锂,飞等的赞助~   
+感谢laoli,少歌,经天纬地,氘化锂,飞,辛辛那提,汉子,Nobody,河间二月等的赞助~   
 以及大家对软件的支持~   
 
-<img src="res/20180125011044.png" width = "300"  alt="微信赞助" align=center />
+<img src="res/weixin.png" width = "300"  alt="微信赞助" align=center />
+<img src="res/zhifubao.jpg" width = "300"  alt="支付宝赞助" align=center />
 
 您的赞助是对软件的最大鼓励！祝您使用愉快~
 
